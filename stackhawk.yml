@@ -1,0 +1,10 @@
+
+app:
+  applicationId: fd5e5012-46e8-4a70-b22f-630712acf11e # (required)
+ 
+  env: Development # (required)
+ 
+  host: https://localhost:300 # (required)
+
+hawk:
+failureThreshold: high
